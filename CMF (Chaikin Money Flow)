@@ -1,0 +1,20 @@
+CMF stands for Chaikin Money Flow, a volume-weighted indicator created by Marc Chaikin that measures buying and selling pressure over a specific period (typically 21 days).
+What It Measures
+CMF combines price and volume data to determine whether money is flowing into or out of a security. It's based on the idea that rising prices with strong volume indicate accumulation (buying pressure), while falling prices with strong volume indicate distribution (selling pressure).
+How It Works
+The calculation involves:
+
+Money Flow Multiplier: Determines where the closing price is relative to the high-low range for the period
+Money Flow Volume: Multiplies the multiplier by volume
+CMF: Sums the money flow volume over the period and divides by total volume
+
+Interpretation
+
+CMF above 0: Indicates buying pressure (accumulation) - bullish signal
+CMF below 0: Indicates selling pressure (distribution) - bearish signal
+Extreme values (+0.25 or higher, -0.25 or lower): Suggest strong buying or selling pressure
+Divergences: When CMF moves opposite to price, it can signal potential reversals
+
+Example Usage
+If a stock is rising but CMF is declining or negative, it suggests the rally lacks volume support and may be weakening. Conversely, if a stock is falling but CMF is rising, it might indicate accumulation during the decline.
+Traders often use CMF alongside other indicators like moving averages or RSI to confirm trends and identify potential entry/exit points.
